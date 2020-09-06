@@ -14,7 +14,8 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 ## Como contribuir?
 
 1. Para contribuir, você deve dar um *fork* ou *clone* do repositório
-	1.1. *Fork*: Use para fazer as alterações diretamente no GitHub! ![Fork](https://docs.github.com/assets/images/help/repository/code-button.png)
+
+    1.1. *Fork*: Use para fazer as alterações diretamente no GitHub! ![Fork](https://docs.github.com/assets/images/help/repository/code-button.png)
 
 2. Depois de feito o *fork* ou *clone*, você precisa inserir uma pasta com o seu nome, seguindo o [modelo](./modelo.md) abaixo:
 
