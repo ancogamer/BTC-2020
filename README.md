@@ -1,4 +1,4 @@
-# Maratona Behint the Code 2020
+# Maratona Behind the Code 2020
 
 ![](https://maratona.dev/static/img/ready-set-code.jpg)
 
