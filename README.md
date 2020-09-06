@@ -21,7 +21,7 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 
     2.1. Os `Arquivos.zip` são os mesmo enviados durante a submissão
   
-    2.2. O arquivo `README.md` é opcional, mas caso queira fazer, irei deixar um [modelo](./modelo) para ser seguido.
+    2.2. O arquivo `README.md` é opcional, mas caso queira fazer, irei deixar um [modelo](./modelo.md) para ser seguido.
 
 ```
 BTC-2020
