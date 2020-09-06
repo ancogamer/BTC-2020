@@ -17,7 +17,7 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 
     1.1. *Fork*: Use para fazer as alterações diretamente no GitHub! ![Fork](https://docs.github.com/assets/images/help/repository/code-button.png)
 
-2. Depois de feito o *fork* ou *clone*, você precisa inserir uma pasta com o seu nome, seguindo o [modelo](./modelo.md) abaixo:
+2. Depois de feito o *fork* ou *clone*, você precisa inserir uma pasta com o seu nome, seguindo os passos abaixo:
 
     2.1. Os `Arquivos.zip` são os mesmo enviados durante a submissão
   
