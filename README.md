@@ -41,7 +41,7 @@ BTC-2020
     </a>
 	
 	3.2. Clique em "New pull request"
-  	![Clique em "New pull request"](https://cs.carleton.edu/faculty/jondich/courses/cs257_s18/assignments/images/11-new-pull-request.png)
+  	![Clique em "New pull request"](./new-pull-request.png)
   
 	3.3. Então, basta adicionar um comentário falando sobre suas alterações para que seja melhor revisado e clicar em "Create pull request"!
 	![Então, basta adicionar um comentário falando sobre suas alterações para que seja melhor revisado e clicar em "Create pull request"!](https://storage.googleapis.com/cdn.thenewstack.io/media/2018/06/bd933597-propen.png)
