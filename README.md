@@ -27,9 +27,10 @@ Quer saber mais sobre os desafios lançados durante a maratona? Click no [link](
 
 ```
 BTC-2020
-└───Seu Nome
-│   │   Arquivos.zip
-│   │   README.md (Opcional)
+└───Desafio #X
+    └─── Seu Nome
+│   │   │ Arquivos.zip
+│   │   │ README.md (Opcional)
 ```
 
 3. Depois de feito o upload de todos os arquivos acima, você precisa fazer um pull request, seguindo os passos abaixo:
